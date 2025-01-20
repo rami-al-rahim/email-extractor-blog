@@ -41,6 +41,13 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "string",
+            name: "description",
+            label: "Description",
+            isTitle: false,
+            required: true,
+          },
+          {
             type: "datetime",
             name: "posted",
             label: "Date Posted",
