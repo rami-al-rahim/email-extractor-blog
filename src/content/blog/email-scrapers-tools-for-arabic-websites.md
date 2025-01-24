@@ -5,8 +5,8 @@ featured: true
 draft: false
 tags:
   - how to
-description: this tutorial we wil help you to create your first QR code
 title: 'Email Scraper Tools for Arabic Websites: Which is the Best?'
+description: turn Arabic website into leads
 posted: 2025-01-18T21:00:00.000Z
 pubDatetime: 2025-01-18T21:00:00.000Z
 modDatetime: 2025-01-18T21:00:00.000Z
